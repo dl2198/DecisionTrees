@@ -1,2 +1,2 @@
 # DecisionTrees
-Python3 implementations of a decision tree for MNIST classification
+Python3 implementation of a decision tree for MNIST classification
